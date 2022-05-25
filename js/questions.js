@@ -2,112 +2,112 @@
 let questions = [
     {
     numb: 1,
-    question: "Ի՞նչ է նշանակում CSS:",
-    answer: "Cascading Style Sheet",
+    question: "Ի՞նչ է նշանակում HTML-ը:",
+    answer: "Hyper Text Markup Language",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Hyper Text Preprocessor",
+      "Hyper Text Markup Language",
+      "Hyper Text Multiple Language",
+      "Hyper Tool Multi Language"
     ]
   },
     {
     numb: 2,
-    question: "Ո՞ր HTML հատկանիշն է օգտագործվում ներկառուցված ոճերը սահմանելու համար:",
-    answer: "style",
+    question: "Ընտրեք ճիշտ HTML տարրը ամենամեծ վերնագրի համար.",
+    answer: "h1",
     options: [
-      "class",
-      "font",
-      "style",
-      "id"
+      "h1",
+      "h6",
+      "head",
+      "heading"
     ]
   },
     {
     numb: 3,
-    question: "Ինչպե՞ս եք մեկնաբանություն տեղադրում CSS ֆայլում:",
-    answer: "/* comment */",
+    question: "Ո՞րն է ճիշտ HTML տարրը տողերի ընդմիջում տեղադրելու համար:",
+    answer: "br",
     options: [
-      "'comment",
-      "/ comment /",
-      "/* comment */",
-      "// comment //"
+      "bi",
+      "br",
+      "hr",
+      "span"
     ]
   },
     {
     numb: 4,
-    question: "Ո՞ր հատկությունն է օգտագործվում ֆոնի գույնը փոխելու համար:",
-    answer: "background-color",
+    question: "Ընտրեք ճիշտ HTML տարրը ընդգծված տեքստը սահմանելու համար",
+    answer: "em",
     options: [
-      "background-color",
-      "color",
-      "bgcolor",
-      "backcolor"
+      "italic",
+      "i",
+      "em",
+      "b"
     ]
   },
     {
     numb: 5,
-    question: "Ո՞ր CSS հատկությունն է օգտագործվում տեքստի գույնը փոխելու համար:",
-    answer: "color",
+    question: "Ո՞րն է հիպերհրղման կարևոր ատրիուբուտը:",
+    answer: "href",
     options: [
-      "fgcolor",
-      "color",
-      "text-color",
-      "background-color"
+      "href",
+      "name",
+      "link",
+      "url"
     ]
   },
   {
   numb: 6,
-  question: "Ո՞ր CSS հատկությունն է վերահսկում տեքստի չափը:",
-  answer: "font-size",
+  question: "Ո՞ր նիշն է օգտագործվում վերջի թեգը նշելու համար:",
+  answer: "/",
   options: [
-    "font-size",
-    "text-size",
-    "font-style",
-    "text-style"
+    "<",
+    "*",
+    "/",
+    "^"
   ]
 },
   {
   numb: 7,
-  question: "Ո՞ր հատկությունն է օգտագործվում տարրի տառատեսակը փոխելու համար:",
-  answer: "font-family",
+  question: "Ինչպե՞ս կարող եք համարակալված ցուցակ կազմել:",
+  answer: "ol",
   options: [
-    "font-style",
-    "font-weight",
-    "text-family",
-    "font-family"
+    "ol",
+    "ul",
+    "dl",
+    "list"
   ]
   },
   {
   numb: 8,
-  question: "Ինչպե՞ս եք տեքստը դարձնում bold:",
-  answer: "font-weight: bold",
+  question: "Ինչպե՞ս կարող եք կազմել կետավոր ցուցակ:",
+  answer: "li",
   options: [
-    "font: bold",
-    "text: bold",
-    "font-weight: bold",
-    "style: bold"
+    "list",
+    "ol",
+    "li",
+    "dl"
   ]
   },
   {
   numb: 9,
-  question: "Ո՞ր հատկությունն է օգտագործվում տարրի ձախ լուսանցքը փոխելու համար:",
-  answer: "margin-left",
+  question: "Ո՞րն է նկար տեղադրելու կարևոր ատրիուբուտը:",
+  answer: "src",
   options: [
-    "indent",
-    "margin-left",
-    "padding-left",
-    "weight-left"
+    "src",
+    "alt",
+    "href",
+    "traget"
   ]
 },
   {
   numb: 10,
-  question: "Padding հատկությունն օգտագործելիս; Ձեզ թույլատրվում է օգտագործել բացասական արժեքներ:",
-  answer: "Ոչ",
+  question: "Ո՞ր HTML տարրն է սահմանում փաստաթղթի անվանումը:",
+  answer: "title",
   options: [
-    "Այո",
-    "Ոչ",
-    "Որոշ դեպքերում",
-    "Երբ որ բացասականը ամբողջ թիվ չէ"
+    "meta",
+    "head",
+    "title",
+    "body"
   ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
